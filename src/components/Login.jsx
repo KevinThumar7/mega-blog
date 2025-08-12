@@ -64,9 +64,9 @@ function Login() {
                               required: true
                           })}
                       />
-                      <button
+                      <Button
                           type='submit'
-                          className='p-5 text-white bg-amber-400 rounded-4xl w-full'>Sign In</button>
+                          className='p-5 text-white bg-amber-400 rounded-4xl w-full'>Sign In</Button>
                   </div>
               </form>
           </div>
